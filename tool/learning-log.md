@@ -1,16 +1,17 @@
 # Tool Learning Log
 
-Tool: **X**
+Tool: **Flutter**
 
 Project: **X**
 
 ---
 
-X/X/X:
-* Text
+11/12/23:
+* read the introduction of Flutter website
 
-X/X/X:
-* Text
+11/18/23:
+* read the layout documentation on Flutter website
+* learned how to align columns
 
 
 <!-- 
