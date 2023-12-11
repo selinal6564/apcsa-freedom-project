@@ -17,6 +17,9 @@ Project: **X**
 * read the layout documentation on Flutter website
 * learned how to size widgets
 
+12/10/23:
+* read the documentation on Flutter website and learned how to make different layouts
+
 
 <!-- 
 * Links you used today (websites, videos, etc)
