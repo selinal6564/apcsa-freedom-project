@@ -28,10 +28,10 @@ Project: **an app to help someone plan their day or week**
 2/5/24:
 * tried creating a layout
 * added a heading
-* added rows
+* added a button
 
 2/26/24:
-* adding an image and sizing it
+* adding an image
 
 3/10/24:
 * started creating a basic layout for MVP
