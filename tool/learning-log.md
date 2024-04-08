@@ -37,6 +37,11 @@ Project: **an app to help someone plan their day or week**
 * started creating a basic layout for MVP
 * created a heading to show date
 
+4/2/24:
+* added columns to organize days of the week
+* learned that main axis runs vertically for column
+* cross axis runs horizontally
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
