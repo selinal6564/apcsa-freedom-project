@@ -42,6 +42,12 @@ Project: **an app to help someone plan their day or week**
 * learned that main axis runs vertically for column
 * cross axis runs horizontally
 
+4/14/24:
+* start to create a list
+* looked on documentation for examples on how to create lists
+* learned ListView constructor can be used to create a list
+* next step - make the list able to include user's input or try to make the list longer
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
