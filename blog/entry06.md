@@ -1,7 +1,7 @@
 # Entry 6
-##### X/X/XX
+##### 6/6/24
 
-Text
+My takeaways from my Expo elevator pitch is to prepare ahead of time and to speak louder.
 
 [Previous](entry05.md) | [Next](entry07.md)
 
