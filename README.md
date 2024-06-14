@@ -8,9 +8,9 @@ For my project, I chose to independently study **Flutter** in order to help me m
 
 ## Links
 
-[Product]()
+[Product](https://drive.google.com/file/d/10EmPe0vAlU0qMVtIS1p7QB1e5ntyPBKc/view?usp=sharing)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1qgtM7NSMmxLxTUt8ibhbXNpxqCTPuFsgZK_XKqmS8Fk/edit?usp=sharing)
 
 ## Implications
 ##### PROS
